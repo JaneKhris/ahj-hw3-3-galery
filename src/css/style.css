@@ -1,0 +1,42 @@
+body{
+  font-family: sans-serif;
+}
+
+.app-container {
+  background-color: gray;
+  padding: 15px;
+}
+.forms {
+  width: 600px;
+  height: 150px;
+  background-color: white;
+  padding: 50px;
+  margin: 0 auto;
+  border: 1px solid black;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.btn-add {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  border: 1px solid black;
+  border-radius: 10px;
+  background: white;
+  width: 80px;
+  height: 20px;
+  margin-top: 60px;
+
+}
+.galery {
+  width: 600px;
+  height: 150px;
+  margin: 0 auto;
+  display: flex;
+
+}
+.img-container {
+  width: 100px;
+  height: 150px;
+}
